@@ -1,1 +1,6 @@
-# Optimizing Cyber Security Techniques for Large Infrastructures using Genetic Algorithm
+Optimizing Cyber Security Techniques for Large Infrastructures using Genetic Algorithm
+
+The project addresses the optimization of cybersecurity rules using Genetic Algorithms.
+The algorithm evaluates and evolves hexadecimal chromosomes representing cybersecurity rules strategies against simulated attacks. Diverse initialization, selection 
+techniques, crossover, and mutation were employed to iteratively enhance the fitness
+of solutions, culminating in a robust defense mechanism.
