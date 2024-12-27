@@ -33,12 +33,14 @@ promoting variability. To further ensure genetic diversity, mutations are applie
 specified rates, introducing new potential solutions and avoiding local optima. Iterative
 evaluations and enhancements over successive generations refine the solutions,
 culminating in optimized defence strategies against evolving threats.
+
 The Genetic Algorithm was implemented with the following parameters:
 • Population Size: 50
 • Chromosome Length: 10 (hexadecimal)
 • Generations: 30
 • Crossover Rate: 8%
 • Mutation Rate: 5%
+
 Key steps include:
 1. Initialization of population.
 2. Fitness evaluation using a weighted formula based on detection rate, system
